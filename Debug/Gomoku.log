@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+C:\Users\Maciek\source\repos\Gomoku\Gomoku\Źródło.cpp(200,1): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Gomoku\Gomoku\Źródło.cpp(445,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Maciek\source\repos\Gomoku\Gomoku\Źródło.cpp(65): warning C4715: "Game::playAgain”: niewszystkie ścieżki kodu zwracają wartość
+  Gomoku.vcxproj -> C:\Users\Maciek\source\repos\Gomoku\Debug\Gomoku.exe
